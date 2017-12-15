@@ -16,3 +16,8 @@ e.	Has a credit card (Y/N)
 2.	The system allows Mr.X to rate 4 books for example
 3.	Select the nearest to Mr.X and predict whether he will like or not the fifth book based on mahatten, Ecludian and cosin similarity
 
+# Contributor
+
+Name: Hend Mohamed 
+Email: hend1410317@miuegypt.edu.eg
+
